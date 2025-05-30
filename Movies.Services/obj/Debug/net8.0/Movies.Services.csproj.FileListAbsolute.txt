@@ -1,0 +1,15 @@
+C:\Movies\Movies.Services\bin\Debug\net8.0\Movies.Services.deps.json
+C:\Movies\Movies.Services\bin\Debug\net8.0\Movies.Services.dll
+C:\Movies\Movies.Services\bin\Debug\net8.0\Movies.Services.pdb
+C:\Movies\Movies.Services\bin\Debug\net8.0\Movies.Data.dll
+C:\Movies\Movies.Services\bin\Debug\net8.0\Movies.Data.pdb
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.csproj.AssemblyReference.cache
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.AssemblyInfoInputs.cache
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.AssemblyInfo.cs
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.csproj.CoreCompileInputs.cache
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.S.CE7C627A.Up2Date
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.dll
+C:\Movies\Movies.Services\obj\Debug\net8.0\refint\Movies.Services.dll
+C:\Movies\Movies.Services\obj\Debug\net8.0\Movies.Services.pdb
+C:\Movies\Movies.Services\obj\Debug\net8.0\ref\Movies.Services.dll

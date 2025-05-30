@@ -1,0 +1,12 @@
+C:\Movies\Movies.Data\bin\Debug\net8.0\Movies.Data.deps.json
+C:\Movies\Movies.Data\bin\Debug\net8.0\Movies.Data.dll
+C:\Movies\Movies.Data\bin\Debug\net8.0\Movies.Data.pdb
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.AssemblyInfoInputs.cache
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.AssemblyInfo.cs
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.csproj.CoreCompileInputs.cache
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.dll
+C:\Movies\Movies.Data\obj\Debug\net8.0\refint\Movies.Data.dll
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.pdb
+C:\Movies\Movies.Data\obj\Debug\net8.0\ref\Movies.Data.dll
+C:\Movies\Movies.Data\obj\Debug\net8.0\Movies.Data.csproj.AssemblyReference.cache

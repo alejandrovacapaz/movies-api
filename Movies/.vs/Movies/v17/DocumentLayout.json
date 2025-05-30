@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Movies\\Movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30A52828-956E-4E7A-A024-7A8A11FC4420}|..\\MoviesTest\\Movies.Test.csproj|c:\\movies\\moviestest\\movieservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30A52828-956E-4E7A-A024-7A8A11FC4420}|..\\MoviesTest\\Movies.Test.csproj|c:\\movies\\moviestest\\movies.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B393D954-2F38-40F4-B2EF-96F3EA3CB9A6}|..\\Movies.Services\\Movies.Services.csproj|c:\\movies\\movies.services\\imp\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\model\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\dbseedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|c:\\movies\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|c:\\movies\\movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B393D954-2F38-40F4-B2EF-96F3EA3CB9A6}|..\\Movies.Services\\Movies.Services.csproj|c:\\movies\\movies.services\\helpers\\ratinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|c:\\movies\\movies\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B393D954-2F38-40F4-B2EF-96F3EA3CB9A6}|..\\Movies.Services\\Movies.Services.csproj|c:\\movies\\movies.services\\movies.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|c:\\movies\\movies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1715E1CD-E3A8-4302-8D9A-9B049BF34C98}|Movies.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\movies.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B53A8F-8E4E-4F32-895C-FD03A5EE445D}|..\\Movies.Data\\Movies.Data.csproj|c:\\movies\\movies.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B393D954-2F38-40F4-B2EF-96F3EA3CB9A6}|..\\Movies.Services\\Movies.Services.csproj|c:\\movies\\movies.services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 538,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Movies\\Movies\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Movies\\Movies\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T23:13:28.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies.Test.csproj",
+              "DocumentMoniker": "C:\\Movies\\MoviesTest\\Movies.Test.csproj",
+              "RelativeDocumentMoniker": "..\\MoviesTest\\Movies.Test.csproj",
+              "ToolTip": "C:\\Movies\\MoviesTest\\Movies.Test.csproj",
+              "RelativeToolTip": "..\\MoviesTest\\Movies.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T00:12:36.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieServiceTest.cs",
+              "DocumentMoniker": "C:\\Movies\\MoviesTest\\MovieServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\MoviesTest\\MovieServiceTest.cs",
+              "ToolTip": "C:\\Movies\\MoviesTest\\MovieServiceTest.cs",
+              "RelativeToolTip": "..\\MoviesTest\\MovieServiceTest.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:11:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbSeedInitializer.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\DbSeedInitializer.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\DbSeedInitializer.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\DbSeedInitializer.cs",
+              "RelativeToolTip": "..\\Movies.Data\\DbSeedInitializer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:07:37.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Movies\\Movies\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:58:28.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Movies\\Movies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:56:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\Movies.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:53:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Services\\Imp\\MovieService.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Services\\Imp\\MovieService.cs",
+              "ToolTip": "C:\\Movies\\Movies.Services\\Imp\\MovieService.cs",
+              "RelativeToolTip": "..\\Movies.Services\\Imp\\MovieService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:49:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\Model\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\Model\\Movie.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\Model\\Movie.cs",
+              "RelativeToolTip": "..\\Movies.Data\\Model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:43:42.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\Dtos\\MovieDto.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\Dtos\\MovieDto.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\Dtos\\MovieDto.cs",
+              "RelativeToolTip": "..\\Movies.Data\\Dtos\\MovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:48:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\Model\\User.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\Model\\User.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\Model\\User.cs",
+              "RelativeToolTip": "..\\Movies.Data\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:44:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\Model\\Rating.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\Model\\Rating.cs",
+              "ToolTip": "C:\\Movies\\Movies.Data\\Model\\Rating.cs",
+              "RelativeToolTip": "..\\Movies.Data\\Model\\Rating.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:45:54.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Movies\\Movies\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Movies\\Movies\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T23:13:07.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RatingHelper.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Services\\Helpers\\RatingHelper.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Services\\Helpers\\RatingHelper.cs",
+              "ToolTip": "C:\\Movies\\Movies.Services\\Helpers\\RatingHelper.cs",
+              "RelativeToolTip": "..\\Movies.Services\\Helpers\\RatingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:20:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movies.Services.csproj",
+              "DocumentMoniker": "C:\\Movies\\Movies.Services\\Movies.Services.csproj",
+              "RelativeDocumentMoniker": "..\\Movies.Services\\Movies.Services.csproj",
+              "ToolTip": "C:\\Movies\\Movies.Services\\Movies.Services.csproj",
+              "RelativeToolTip": "..\\Movies.Services\\Movies.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T22:50:15.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Movies\\Movies.Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "..\\Movies.Services\\IMovieService.cs",
+              "ToolTip": "C:\\Movies\\Movies.Services\\IMovieService.cs",
+              "RelativeToolTip": "..\\Movies.Services\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:50:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movies.Data.csproj",
+              "DocumentMoniker": "C:\\Movies\\Movies.Data\\Movies.Data.csproj",
+              "RelativeDocumentMoniker": "..\\Movies.Data\\Movies.Data.csproj",
+              "ToolTip": "C:\\Movies\\Movies.Data\\Movies.Data.csproj",
+              "RelativeToolTip": "..\\Movies.Data\\Movies.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T22:49:42.093Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
